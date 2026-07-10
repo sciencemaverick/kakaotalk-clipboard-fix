@@ -62,3 +62,7 @@ README.md
 ## Disclaimer
 
 카카오 또는 KakaoTalk과 관련 없는 비공식 개인 유틸리티입니다. 코드는 짧으니 설치 전에 직접 읽어보는 것을 권장합니다. 클립보드를 고치려다 신뢰까지 복사해 오지는 않습니다.
+
+## License
+
+[MIT License](LICENSE)
